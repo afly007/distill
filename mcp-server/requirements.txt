@@ -5,5 +5,5 @@ uvicorn==0.46.0
 tiktoken==0.12.0
 pymupdf==1.27.2.3
 flashrank==0.2.10
-cohere==6.1.0
+cohere==7.0.0
 trafilatura>=2.0.0
